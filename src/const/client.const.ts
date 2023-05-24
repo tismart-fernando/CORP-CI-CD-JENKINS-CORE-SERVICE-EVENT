@@ -1,0 +1,1 @@
+export const SECURITY_CLIENT = 'SECURITY_CLIENT';
